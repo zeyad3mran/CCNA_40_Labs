@@ -21,7 +21,7 @@ Verify basic connectivity between two devices on the same network using a single
 You should get a Reply from PC1, confirming Layer 2 connectivity and correct IP addressing.
 
 ## 📸 Screenshot
-![Building a Simple Network Between Two PCs and One Switch](lab01-simple-network.png)
+![Building a Simple Network Between Two PCs and One Switch](Screenshot 2026-09-27 102813.png)
 
 ## 📝 Notes
 - If the ping fails, check the cable type and make sure both PCs are on the same subnet.
